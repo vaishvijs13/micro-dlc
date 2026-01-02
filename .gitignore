@@ -1,0 +1,14 @@
+build/
+
+*.o
+*.obj
+*.ko
+*.elf
+
+*.a
+*.lib
+*.la
+*.lo
+
+.vscode/
+.DS_Store
